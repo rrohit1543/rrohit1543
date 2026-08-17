@@ -3,36 +3,32 @@
 ### 🤖 AI Engineer • Researcher • Computer Vision • Generative AI
 
 <p align="left">
-  <a href="https://github.com/rrohit1543">
-    <img src="https://img.shields.io/github/followers/rrohit1543?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=181717" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=rrohit1543&style=for-the-badge&label=PROFILE+VIEWS&color=0e75b6" />
-</p>
-
-<p align="left">
   <a href="mailto:rrohit1543@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-rrohit1543%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rohit-raj-8a4131231/">
-    <img src="https://img.shields.io/badge/LINKEDIN-Rohit%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" height="30" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/rrohit1543">
-    <img src="https://img.shields.io/badge/GITHUB-rrohit1543-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/github/181717" width="30" height="30" alt="GitHub" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/therohit_30">
-    <img src="https://img.shields.io/badge/INSTAGRAM-therohit__30-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" height="30" alt="Instagram" />
   </a>
-</p>
-
-<p align="left">
+  &nbsp;&nbsp;
   <a href="https://wa.me/916260604543">
-    <img src="https://img.shields.io/badge/WHATSAPP-+91%206260604543-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="30" height="30" alt="WhatsApp" />
   </a>
+  &nbsp;&nbsp;
   <a href="tel:+916260604543">
-    <img src="https://img.shields.io/badge/CALL-+91%206260604543-00A884?style=for-the-badge&logo=googlevoice&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/phone/00A884" width="30" height="30" alt="Call" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://therohit.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-therohit.vercel.app-4285F4?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/vercel/000000" width="30" height="30" alt="Portfolio" />
   </a>
 </p>
 
