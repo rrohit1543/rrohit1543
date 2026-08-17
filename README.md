@@ -4,31 +4,37 @@
 
 <p align="left">
   <a href="mailto:rrohit1543@gmail.com">
-    <img src="https://api.iconify.design/logos:google-gmail.svg" width="38" height="38" alt="Email" />
+    <img src="https://api.iconify.design/logos:google-gmail.svg" width="42" height="42" alt="Email" />
   </a>
   &nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/rohit-raj-8a4131231/">
-    <img src="https://api.iconify.design/logos:linkedin-icon.svg" width="38" height="38" alt="LinkedIn" />
+    <img src="https://api.iconify.design/logos:linkedin-icon.svg" width="42" height="42" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
+
   <a href="https://github.com/rrohit1543">
-    <img src="https://api.iconify.design/logos:github-icon.svg" width="38" height="38" alt="GitHub" />
+    <img src="https://api.iconify.design/simple-icons:github.svg?color=%23ffffff" width="42" height="42" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;
+
   <a href="https://instagram.com/therohit_30">
-    <img src="https://api.iconify.design/skill-icons:instagram.svg" width="38" height="38" alt="Instagram" />
+    <img src="https://api.iconify.design/skill-icons:instagram.svg" width="42" height="42" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;
+
   <a href="https://wa.me/916260604543">
-    <img src="https://api.iconify.design/logos:whatsapp-icon.svg" width="38" height="38" alt="WhatsApp" />
+    <img src="https://api.iconify.design/logos:whatsapp-icon.svg" width="42" height="42" alt="WhatsApp" />
   </a>
   &nbsp;&nbsp;&nbsp;
+
   <a href="tel:+916260604543">
-    <img src="https://api.iconify.design/material-symbols:phone.svg?color=%2300A884" width="38" height="38" alt="Call" />
+    <img src="https://api.iconify.design/material-symbols:phone-in-talk-rounded.svg?color=%2300A884" width="42" height="42" alt="Call" />
   </a>
   &nbsp;&nbsp;&nbsp;
+
   <a href="https://therohit.vercel.app/">
-    <img src="https://api.iconify.design/logos:vercel-icon.svg" width="38" height="38" alt="Portfolio" />
+    <img src="https://api.iconify.design/material-symbols:language-rounded.svg?color=%234285F4" width="42" height="42" alt="Portfolio" />
   </a>
 </p>
 
