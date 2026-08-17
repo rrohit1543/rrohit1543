@@ -4,25 +4,35 @@
 
 <p align="left">
   <a href="https://github.com/rrohit1543">
-    <img src="https://img.shields.io/github/followers/rrohit1543?label=Followers&style=for-the-badge&logo=github&color=181717" />
+    <img src="https://img.shields.io/github/followers/rrohit1543?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=181717" />
   </a>
-  <a href="https://github.com/rrohit1543">
-    <img src="https://komarev.com/ghpvc/?username=rrohit1543&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=rrohit1543&style=for-the-badge&label=PROFILE+VIEWS&color=0e75b6" />
 </p>
 
 <p align="left">
   <a href="mailto:rrohit1543@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rrohit1543%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-rrohit1543%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rohit-raj-8a4131231/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-Rohit%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/rrohit1543">
-    <img src="https://img.shields.io/badge/GitHub-rrohit1543-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-rrohit1543-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://instagram.com/therohit_30">
-    <img src="https://img.shields.io/badge/Instagram-therohit__30-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-therohit__30-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://wa.me/916260604543">
+    <img src="https://img.shields.io/badge/WHATSAPP-+91%206260604543-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="tel:+916260604543">
+    <img src="https://img.shields.io/badge/CALL-+91%206260604543-00A884?style=for-the-badge&logo=googlevoice&logoColor=white" />
+  </a>
+  <a href="https://therohit.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-therohit.vercel.app-4285F4?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -61,14 +71,14 @@ Currently, I work on **LLM training, evaluation, data quality, and multimodal AI
 **March 2026 – Present · Remote**
 
 - Train and evaluate advanced Large Language Models across reasoning, coding, and AI-assisted problem-solving tasks.
-- Design prompts and evaluate model-generated responses.
+- Design high-quality prompts and evaluate model-generated responses.
 - Perform response ranking, quality assurance, and model-alignment tasks.
 - Provide detailed feedback to improve model accuracy, reasoning, and safety.
 
 ### 🗂️ Data Annotator — Outlier AI
 **January 2026 – Present · Remote**
 
-- Annotate, validate, and curate high-quality datasets for AI/ML models.
+- Annotate, validate, and curate high-quality datasets for AI and ML models.
 - Perform data quality assurance and error analysis.
 - Contribute to human-feedback and multimodal AI projects.
 - Work across NLP, computer vision, and multimodal data-generation workflows.
@@ -119,14 +129,15 @@ My research focuses on **real-time sign language recognition, computer vision, a
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
-### 🧠 AI / Machine Learning
+### 🧠 AI & Machine Learning
 
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LSTM-6A1B9A?style=for-the-badge"/>
 </p>
 
 ### 👁️ Computer Vision
@@ -155,6 +166,7 @@ My research focuses on **real-time sign language recognition, computer vision, a
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/DeepSeek-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kimi%20AI-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 </p>
 
@@ -168,7 +180,7 @@ My research focuses on **real-time sign language recognition, computer vision, a
 <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & Tools
+### ☁️ Cloud & Developer Tools
 
 <p>
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
@@ -180,17 +192,28 @@ My research focuses on **real-time sign language recognition, computer vision, a
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
+### 📊 Data & Annotation
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CVAT-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Label%20Studio-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COCO%20Annotator-111111?style=for-the-badge"/>
+</p>
+
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rrohit1543&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rrohit1543&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrohit1543&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rrohit1543&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rrohit1543&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 
 ---
@@ -206,15 +229,7 @@ My research focuses on **real-time sign language recognition, computer vision, a
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rrohit1543&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rrohit1543&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rrohit1543&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%"/>
 </p>
 
 ---
@@ -222,18 +237,68 @@ My research focuses on **real-time sign language recognition, computer vision, a
 ## 🎓 Education
 
 ### Indian Institute of Science Education & Research, Bhopal
+
 **BS-MS Dual Degree — Electrical Engineering & Computer Science**  
-2019 – 2024
+📅 July 2019 – June 2024
 
 ---
 
 ## 🌱 Currently Exploring
 
-```text
-Generative AI        ████████████████████
-Computer Vision      ████████████████████
-Multimodal AI        ██████████████████░░
-LLMs                 ██████████████████░░
-Sign Language AI     ████████████████████
-Diffusion Models     ██████████████████░░
-AI Research          ███████████████████░
+<p align="center">
+
+<img src="https://img.shields.io/badge/Generative%20AI-████████████████████-8A2BE2?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Computer%20Vision-████████████████████-5C3EE8?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Multimodal%20AI-██████████████████░░-0077B6?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/LLMs-██████████████████░░-412991?style=for-the-badge" />
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I’m always interested in discussing **AI research, computer vision, generative AI, multimodal systems, sign language technology, and interesting open-source projects.**
+
+<p align="center">
+
+<a href="mailto:rrohit1543@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rohit-raj-8a4131231/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/916260604543">
+<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="tel:+916260604543">
+<img src="https://img.shields.io/badge/CALL-00A884?style=for-the-badge&logo=googlevoice&logoColor=white"/>
+</a>
+
+<a href="https://therohit.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-4285F4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+### 🏏 Outside AI
+
+When I’m not working with models, datasets, or research papers, you’ll probably find me **watching cricket, traveling, or taking photographs.** 📸
+
+---
+
+<p align="center">
+  <i>Building intelligent systems that understand the world — one model at a time.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rrohit1543&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
+</p>
