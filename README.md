@@ -4,31 +4,31 @@
 
 <p align="left">
   <a href="mailto:rrohit1543@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Email" />
+    <img src="https://api.iconify.design/logos:google-gmail.svg" width="38" height="38" alt="Email" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rohit-raj-8a4131231/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" height="30" alt="LinkedIn" />
+    <img src="https://api.iconify.design/logos:linkedin-icon.svg" width="38" height="38" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/rrohit1543">
-    <img src="https://cdn.simpleicons.org/github/181717" width="30" height="30" alt="GitHub" />
+    <img src="https://api.iconify.design/logos:github-icon.svg" width="38" height="38" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/therohit_30">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" height="30" alt="Instagram" />
+    <img src="https://api.iconify.design/skill-icons:instagram.svg" width="38" height="38" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/916260604543">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="30" height="30" alt="WhatsApp" />
+    <img src="https://api.iconify.design/logos:whatsapp-icon.svg" width="38" height="38" alt="WhatsApp" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="tel:+916260604543">
-    <img src="https://cdn.simpleicons.org/phone/00A884" width="30" height="30" alt="Call" />
+    <img src="https://api.iconify.design/material-symbols:phone.svg?color=%2300A884" width="38" height="38" alt="Call" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://therohit.vercel.app/">
-    <img src="https://cdn.simpleicons.org/vercel/000000" width="30" height="30" alt="Portfolio" />
+    <img src="https://api.iconify.design/logos:vercel-icon.svg" width="38" height="38" alt="Portfolio" />
   </a>
 </p>
 
