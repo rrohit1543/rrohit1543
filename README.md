@@ -123,15 +123,11 @@ My research focuses on **real-time sign language recognition, computer vision, a
 
 ## 🛠️ Technical Skills
 
-### 👨‍💻 Programming
-
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
-
-### 🧠 AI & Machine Learning
 
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -142,7 +138,7 @@ My research focuses on **real-time sign language recognition, computer vision, a
 <img src="https://img.shields.io/badge/LSTM-6A1B9A?style=for-the-badge"/>
 </p>
 
-### 👁️ Computer Vision
+
 
 <p>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -152,7 +148,6 @@ My research focuses on **real-time sign language recognition, computer vision, a
 <img src="https://img.shields.io/badge/Pose%20Estimation-111111?style=for-the-badge"/>
 </p>
 
-### 🎨 Generative AI
 
 <p>
 <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
@@ -161,7 +156,7 @@ My research focuses on **real-time sign language recognition, computer vision, a
 <img src="https://img.shields.io/badge/Multimodal%20AI-0077B6?style=for-the-badge"/>
 </p>
 
-### 🔗 LLMs & AI APIs
+
 
 <p>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -182,7 +177,7 @@ My research focuses on **real-time sign language recognition, computer vision, a
 <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & Developer Tools
+
 
 <p>
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
@@ -194,7 +189,7 @@ My research focuses on **real-time sign language recognition, computer vision, a
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-### 📊 Data & Annotation
+
 
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
