@@ -127,38 +127,21 @@ My research focuses on **real-time sign language recognition, computer vision, a
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
-
-<p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/LSTM-6A1B9A?style=for-the-badge"/>
-</p>
-
-
-
-<p>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/YOLO--NAS-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Pose%20Estimation-111111?style=for-the-badge"/>
-</p>
-
-
-<p>
 <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Diffusion%20Models-6A1B9A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Stable%20Diffusion-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Multimodal%20AI-0077B6?style=for-the-badge"/>
-</p>
-
-
-
-<p>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
