@@ -1,6 +1,27 @@
 # 💫 About Me:
-Hi, I’m Rohit Raj<br><br>👀 I’m into machine learning, deep learning, computer vision, and building intelligent systems—especially anything around gesture understanding, sign language translation, and motion-driven AI.<br><br>🌱 I’m currently working as an AI Engineer at Silence Speaks (UK), where I’m helping build real-time sign-language translation avatars using deep learning, motion analysis, and 2D/3D diffusion models. Before this, I worked as a Product Developer and Researcher at PICT Pune, building real-time ISL recognition and translation systems.<br><br>💞️ I’m looking to collaborate on applied ML research, open-source projects, and creative uses of computer vision, generative models, or multimodal AI.<br><br>📫 How to reach me: rrohit1543@gmail.com<br> | +91 6260601543<br><br>😄 Pronouns: he/him<br><br>⚡ Fun fact: When I’m not training models or playing with motion data, I’m usually watching cricket, traveling, or taking photos.
 
+Hi, I’m Rohit Raj<br><br>
+
+🤖 I’m an AI Engineer, Researcher, and BS-MS graduate from IISER Bhopal, with a strong background in machine learning, deep learning, computer vision, generative AI, and real-time intelligent systems.<br><br>
+
+👀 I’m into machine learning, deep learning, computer vision, and building intelligent systems, especially around sign language AI, gesture recognition, motion analysis, multimodal learning, and AI-generated avatars.<br><br>
+
+🧠 I’m currently working as an AI Trainer at Mercor, where I train and evaluate advanced Large Language Models across reasoning, coding, and AI-assisted problem-solving tasks. I also work as a Data Annotator at Outlier AI, contributing to dataset curation, data quality, human feedback, and multimodal AI projects.<br><br>
+
+🚀 Previously, I worked as an AI Engineer at Silence Speaks (UK), where I developed sign language translation and avatar-generation pipelines using deep learning, computer vision, motion analysis, pose estimation, and 2D/3D diffusion models. Before that, I worked as a Product Developer and Researcher at PICT Pune, developing real-time Indian Sign Language recognition and translation systems.<br><br>
+
+🔬 My technical interests include Generative AI, LLMs, Diffusion Models, Multimodal AI, Pose Estimation, Computer Vision, Edge AI, and real-time model deployment. I’ve also worked with YOLO/YOLO-NAS, MediaPipe, LSTM, Dynamic Time Warping, PyTorch, TensorFlow, OpenCV, Hugging Face, FastAPI, Docker, and CUDA.<br><br>
+
+📚 I’m interested in applied ML research, open-source projects, and building AI systems that solve meaningful real-world problems. I have also published research on real-time Indian Sign Language recognition, captioning, and dynamic sign language recognition.<br><br>
+
+💞️ I’m looking to collaborate on applied ML research, open-source projects, computer vision, generative AI, multimodal AI, and accessibility-focused technologies.<br><br>
+
+📫 How to reach me: rrohit1543@gmail.com<br>
+📱 +91 6260601543<br><br>
+
+😄 Pronouns: he/him<br><br>
+
+⚡ Fun fact: When I’m not experimenting with AI models, I’m usually watching cricket, traveling, or taking photographs. 🏏📸✈️
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@therohit_30) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohit-raj-8a4131231/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rrohit1543@gmail.com) 
