@@ -125,7 +125,7 @@ My research focuses on **real-time sign language recognition, computer vision, a
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -133,8 +133,6 @@ My research focuses on **real-time sign language recognition, computer vision, a
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/LSTM-6A1B9A?style=for-the-badge"/>
-</p>
-<p>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/YOLO--NAS-111111?style=for-the-badge"/>
@@ -142,14 +140,12 @@ My research focuses on **real-time sign language recognition, computer vision, a
 <img src="https://img.shields.io/badge/Pose%20Estimation-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Diffusion%20Models-6A1B9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Stable%20Diffusion-111111?style=for-the-badge&logo=stabilityai&logoColor=white"/>
-</p>
-<p>
+<img src="https://img.shields.io/badge/Stable%20Diffusion-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Multimodal%20AI-0077B6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/DeepSeek-111111?style=for-the-badge&logo=deepseek&logoColor=white"/>
+<img src="https://img.shields.io/badge/DeepSeek-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Kimi%20AI-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 </p>
@@ -165,8 +161,8 @@ My research focuses on **real-time sign language recognition, computer vision, a
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -182,19 +178,6 @@ My research focuses on **real-time sign language recognition, computer vision, a
 <img src="https://img.shields.io/badge/Label%20Studio-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/COCO%20Annotator-111111?style=for-the-badge"/>
 </p>
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rrohit1543&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrohit1543&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rrohit1543&theme=tokyonight&hide_border=true" width="70%"/>
-</p>
-
----
 
 ## 📈 Contribution Activity
 
