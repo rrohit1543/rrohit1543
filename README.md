@@ -133,21 +133,25 @@ My research focuses on **real-time sign language recognition, computer vision, a
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/LSTM-6A1B9A?style=for-the-badge"/>
+</p>
+<p>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/YOLO--NAS-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pose%20Estimation-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Diffusion%20Models-6A1B9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Stable%20Diffusion-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stable%20Diffusion-111111?style=for-the-badge&logo=stabilityai&logoColor=white"/>
+</p>
+<p>
 <img src="https://img.shields.io/badge/Multimodal%20AI-0077B6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/DeepSeek-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/DeepSeek-111111?style=for-the-badge&logo=deepseek&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kimi%20AI-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 </p>
 
 ### ⚡ Deployment & Infrastructure
@@ -155,16 +159,14 @@ My research focuses on **real-time sign language recognition, computer vision, a
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
-
-
 <p>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -172,18 +174,14 @@ My research focuses on **real-time sign language recognition, computer vision, a
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-
-
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/CVAT-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Label%20Studio-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/COCO%20Annotator-111111?style=for-the-badge"/>
 </p>
-
----
 
 ## 📊 GitHub Statistics
 
