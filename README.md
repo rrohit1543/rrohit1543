@@ -226,13 +226,13 @@ My research focuses on **real-time sign language recognition, computer vision, a
 ## 🌱 Currently Exploring
 
 <p align="center">
-
+</p>
 <img src="https://img.shields.io/badge/Generative%20AI-████████████████████-8A2BE2?style=for-the-badge" />
-
+</p>
 <img src="https://img.shields.io/badge/Computer%20Vision-████████████████████-5C3EE8?style=for-the-badge" />
-
+</p>
 <img src="https://img.shields.io/badge/Multimodal%20AI-██████████████████░░-0077B6?style=for-the-badge" />
-
+</p>
 <img src="https://img.shields.io/badge/LLMs-██████████████████░░-412991?style=for-the-badge" />
 
 </p>
